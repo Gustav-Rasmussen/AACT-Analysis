@@ -7,6 +7,6 @@ By combining the two datasets "conditions" and "location_countries" inside the A
 this project shows not only the most prevalent conditions globally but also per nation,
 filtered by most represented countries.
 
-![](most_common_conditions_globally.png)
+![](most_common_conditions.png)
 
-![](most_common_conditions_by_country.png)
+![](most_common_conditions_us.png)
