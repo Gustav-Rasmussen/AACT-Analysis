@@ -8,6 +8,6 @@ this project shows not only the most prevalent conditions globally but also per 
 filtered by most represented countries.
 
 
-![](img/most_common_conditions.png)
+![](img/most_common_conditions_2020.png)
 
-![](img/most_common_conditions_us.png)
+![](img/most_common_conditions_us_2020.png)
