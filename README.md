@@ -5,7 +5,7 @@ CTTI has aggregated and restructured publicly available ClinicalTrials.gov data 
 
 By combining the two datasets "conditions" and "location_countries" inside the AACT database,
 this project shows not only the most prevalent conditions globally but also per nation,
-filtered by most represented countries.
+filtered by most represented countries (here US is shown). These plots are generated from date: 20200601.
 
 
 ![](img/most_common_conditions_2020.png)
