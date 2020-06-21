@@ -1,0 +1,37 @@
+INFO - Starting program: process_data
+INFO -         NCT_ID CONDITION
+0  NCT04404478    stress
+1  NCT04402853      tear
+2  NCT04396912       pth
+3  NCT04396769   obesity
+4  NCT04394390     covid
+INFO - ['stress' 'tear' 'pth' ... 'cmv cytomegalovirus retinitis'
+ 'ocular herpes simplex' 'shcizophrenia']
+INFO -                                                     NCT_ID
+CONDITION                                                 
+β1-adrenergic antagonist chronic treatment , st...       1
+γδ t cells                                               1
+λz,                                                      1
+сhronic ischemia of the lower extremities                1
+•non-alcoholic steatohepatitis (nash)                    1
+INFO - ['United States' 'Denmark' 'Canada' 'China' 'Russian Federation']
+INFO -                        NCT_ID
+COUNTRY                      
+Vietnam                   533
+Virgin Islands (U.S.)       9
+Yemen                       4
+Zambia                    226
+Zimbabwe                  144
+INFO -                     NCT_ID
+COUNTRY                   
+Netherlands          10247
+Belgium              10552
+Korea, Republic of   11405
+Spain                14451
+Italy                14465
+China                17706
+United Kingdom       19501
+Germany              21054
+Canada               23174
+France               26226
+United States       135796
