@@ -11,3 +11,5 @@ filtered by most represented countries (here US is shown). These plots are gener
 ![](img/most_common_conditions_2020.png)
 
 ![](img/most_common_conditions_us_2020.png)
+
+![](img/obesity_us.png)
